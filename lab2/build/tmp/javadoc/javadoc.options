@@ -1,0 +1,8 @@
+-classpath 'C:\\Users\\charl\\OneDrive\\Documents\\NetBeansProjects\\lab2ComplexNumber\\build\\classes\\java\\main;C:\\Users\\charl\\OneDrive\\Documents\\NetBeansProjects\\lab2ComplexNumber\\build\\resources\\main'
+-d 'C:\\Users\\charl\\OneDrive\\Documents\\NetBeansProjects\\lab2ComplexNumber\\build\\docs\\javadoc'
+-doctitle 'lab2ComplexNumber API'
+-notimestamp 
+-quiet 
+-windowtitle 'lab2ComplexNumber API'
+'C:\\Users\\charl\\OneDrive\\Documents\\NetBeansProjects\\lab2ComplexNumber\\src\\main\\java\\coe318\\lab2\\ComplexNumber.java'
+'C:\\Users\\charl\\OneDrive\\Documents\\NetBeansProjects\\lab2ComplexNumber\\src\\main\\java\\coe318\\lab2\\ComplexTry.java'
